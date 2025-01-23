@@ -1,8 +1,11 @@
 This application enables users to browse products and add them to a cart. Useers can update the quantities and also remove items from the cart.
 
+### Live link to the app:
+https://react-challenge0.vercel.app/
+
 # Features
 
-Productr List: This is the display of products with their names, prices and also the add button.
+Product List: This is the display of products with their names, prices and also the add button.
 
 Shopping Cart: This displays the products added to the cart with the quantities and total price.
 
